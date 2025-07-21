@@ -1,4 +1,4 @@
-# 📚 Course Overview
+#  Course Overview
 Throughout the course, I worked with essential data structures and core algorithms, learning how to implement and apply them in C/C++.
 
 Main topics covered:
@@ -15,7 +15,7 @@ Main topics covered:
 
 - Basic principles of algorithmic complexity (Big O notation)
 
-# 💡 What I Learned
+#  What I Learned
 Practical coding skills to implement and manage fundamental data structures
 
 - How to approach problems using the right algorithm or structure
@@ -28,7 +28,7 @@ Practical coding skills to implement and manage fundamental data structures
 
 - Analytical thinking to compare solutions and understand trade-offs
 
-# 🎯 Beyond the Basics
+#  Beyond the Basics
 In addition to mandatory tasks, I solved many extra exercises to:
 
 Explore alternative implementations (e.g., different sorting strategies)
